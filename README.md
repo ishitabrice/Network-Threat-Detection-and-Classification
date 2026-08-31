@@ -227,9 +227,9 @@ NIDS-Using-Deep-Learning/
 
 ## 👤 Author
 
-**Siba Sankar Mallick**
+Ishita Brice and Bhavya Negi
 
-B.Tech — Mathematics & Computing
+
 IIT Guwahati
 
 ---
